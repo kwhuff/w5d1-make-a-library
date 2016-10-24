@@ -1,0 +1,12 @@
+// Your test code examples go here. Make sure you console.log() results.
+console.log(md.one('td'))
+console.log(md.all('td'))
+console.log(md.remove('td'))
+console.log(md.addClass('nav', 'NEWCLASS'))
+console.log(md.removeClass('nav', 'NEWCLASS'))
+console.log(md.hasClass('nav', 'navbar-fixed-top'))
+console.log(md.getAttr('div', 'class'))
+console.log(md.setAttr('nav', 'placeholder', 'this is a placeholder'))
+console.log(md.setHTML('h1', 'HEHEHEHELEHELEEOOOOOOOOOO'))
+console.log(md.getHTML('h1'))
+console.log(md.getAPI('http://swapi.co/api/'))
